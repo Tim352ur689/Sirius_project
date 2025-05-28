@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.Properties.Resources.resources
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\bin\Debug\AdministratorComander.exe.config
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\bin\Debug\AdministratorComander.exe
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\bin\Debug\AdministratorComander.pdb
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.Form1.resources
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.exe
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.pdb
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.Form3.resources
+C:\Users\Admin\source\repos\AdministratorComander\AdministratorComander\obj\Debug\AdministratorComander.Form4.resources
